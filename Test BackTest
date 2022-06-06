@@ -1,0 +1,11 @@
+<!-- TradingView Chart BEGIN -->
+<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+<script type="text/javascript">
+var tradingview_embed_options = {};
+tradingview_embed_options.width = '640';
+tradingview_embed_options.height = '400';
+tradingview_embed_options.chart = 'fmnUbwJ0';
+new TradingView.chart(tradingview_embed_options);
+</script>
+<p><a href="https://tw.tradingview.com/chart/XAUUSD/fmnUbwJ0/">Feb 28 , 2022 - EA - 圈地食法</a> by <a href="https://tw.tradingview.com/u/Jan-Tsang/">Jan-Tsang</a> on <a href="https://tw.tradingview.com/">TradingView.com</a></p>
+<!-- TradingView Chart END -->
